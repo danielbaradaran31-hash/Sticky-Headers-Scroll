@@ -1,4 +1,4 @@
-📌 Projektbeschreibung
+##📌 Projektbeschreibung
 
 Dieses Projekt zeigt eine moderne Umsetzung eines Sticky Headers, der sich während des Scrollens dynamisch verändert.
 Beim Herunterscrollen ⬇️:
@@ -11,7 +11,7 @@ Die Animation basiert auf JavaScript + CSS Transition und eignet sich perfekt zu
 
 ⸻
 
-✨ Funktionen
+#✨ Funktionen
  • 🌀 Weiche Logo-Resize-Animation
  • 🎨 Dynamischer Hintergrund- und Textfarbwechsel
  • ⚡ Verwendung dynamischer CSS-Klassen
@@ -24,7 +24,7 @@ Die Animation basiert auf JavaScript + CSS Transition und eignet sich perfekt zu
 
 🇬🇧 English Version
 
-📌 About the Project
+#📌 About the Project
 
 This project presents a clean and modern Sticky Header that animates when the user scrolls.
 When scrolling down ⬇️:
@@ -37,7 +37,7 @@ Built using JavaScript + CSS Transitions, this project is perfect for learning, 
 
 ⸻
 
-✨ Features
+#✨ Features
  • 🌀 Smooth logo resize animation
  • 🎨 Dynamic background & text color transitions
  • ⚡ Class-based styling controlled via JavaScript
@@ -48,14 +48,14 @@ Built using JavaScript + CSS Transitions, this project is perfect for learning, 
 
 ⸻
 
-🚀 Technologies Used
+#🚀 Technologies Used
  • HTML5
  • CSS3 (Transitions)
  • JavaScript (DOM Manipulation)
 
 ⸻
 
-📂 Project Structure
+#📂 Project Structure
 
 📁 project-folder
 │── index.html
