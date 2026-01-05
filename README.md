@@ -1,4 +1,4 @@
-##📌 Projektbeschreibung
+#📌 Projektbeschreibung
 
 Dieses Projekt zeigt eine moderne Umsetzung eines Sticky Headers, der sich während des Scrollens dynamisch verändert.
 Beim Herunterscrollen ⬇️:
